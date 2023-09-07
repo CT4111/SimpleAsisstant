@@ -1,3 +1,3 @@
 # SimpleAsisstant
 SimpleVoiceAssistant Im currently working on
-Using vosk for voice recognition and toll now only has pre defind commands
+Using speech_recognition for voice recognition, gpt4all  for slow but ai generated responses and pyttsx3 for Text to Speech
